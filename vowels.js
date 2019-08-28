@@ -27,4 +27,4 @@ function countVowels(string) {
 
     return [vowelsInString, duplicates.size];
 }
-console.log(countVowels("aaei"));
+console.log(countVowels("sharon"));
